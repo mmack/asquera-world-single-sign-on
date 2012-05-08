@@ -1,3 +1,6 @@
+# Rumor: 12/21/2012
+They set :world_usage to true and from then on all mankind will use Asquera single-sign-on.
+
 # HMAC
 
 This gem provides request authentication via [HMAC](http://en.wikipedia.org/wiki/Hmac). The main usage is request based, noninteractive
